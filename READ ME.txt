@@ -1,0 +1,9 @@
+Welcome to Glade Bot. A twitch bot to help counteract the Twitch follow bot raids that 
+		lessen users time in the channel when this happens.
+
+
+
+BEFORE USE:
+	NOTE: There are places to put in the password  (in configuration options at top of code )
+	NOTE: There are places to put the streamer name or any moderators for your channel
+                ( in config options and in the stop command)
